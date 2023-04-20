@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="act">View Activity</string>
+    <string name="fab">Fab</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="FlexiCanteen">Flexy Canteen</string>
+    <string name="Register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="FullName">Full Name</string>
+    <string name="EmailAddress">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="AlreadyRegistered">Already Registered?</string>
+    <string name="ForgetPassword">Forget Password?</string>
+    <string name="noAccount">Don\'t Have An Account?</string>
+    <string name="search">Search for your item...</string>
+    <string name="hey">Welcome...</string>
+    <string name="what">What do you want?</string>
+    <string name="canteen">Canteen</string>
+    <string name="phone">Phone no.</string>
+    <string name="productName">Product Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Empty Cart</string>
+    <string name="fragment">Cart</string>
+
+
+</resources>

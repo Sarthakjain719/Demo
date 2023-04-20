@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:orientation="vertical"
+    android:background="#3C3838"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/navBarProfileViewer"
+        android:layout_width="70dp"
+        android:layout_height="80dp"
+        android:src="@drawable/person"></ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="kush jain"
+        android:textSize="20dp">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1234567890"
+        android:textSize="20dp">
+
+
+    </TextView>
+
+
+
+
+
+
+</LinearLayout>

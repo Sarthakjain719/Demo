@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/aladin</item>
+        <item>@font/arizonia</item>
+        <item>@font/barriecito</item>
+        <item>@font/bonbon</item>
+        <item>@font/condiment</item>
+        <item>@font/delius_swash_caps</item>
+        <item>@font/julee</item>
+        <item>@font/lobster</item>
+        <item>@font/merienda_one</item>
+        <item>@font/pacifico</item>
+        <item>@font/swanky_and_moo_moo</item>
+    </array>
+</resources>
